@@ -1,0 +1,63 @@
+**Relatórios e Análise de Dados**
+
+Este projeto reúne três relatórios feitos em Python utilizando Jupyter Notebook. O objetivo é carregar bases de dados em arquivos CSV, visualizar algumas informações e criar gráficos para facilitar a análise.
+
+**Bibliotecas utilizadas**
+
+- **Pandas:** utilizada para ler e organizar os dados.
+- **Seaborn:** utilizada para criar os gráficos.
+
+**Relatórios**
+
+**1. Relatório de Eletrônicos**
+
+Arquivo: `relatorio_eletronicos.ipynb`
+
+Base de dados: `vendas_eletronicos.csv`
+
+Neste relatório, são analisados os dados de vendas de produtos eletrônicos. O notebook exibe as primeiras e últimas linhas, apresenta informações estatísticas e cria gráficos para visualizar as categorias mais vendidas e comparar os preços unitários por categoria.
+
+**2. Relatório de Estudantes**
+
+Arquivo: `relatorio_estudantes.ipynb`
+
+Base de dados: `student_habits_performance.csv`
+
+Este relatório analisa informações sobre os hábitos dos estudantes e suas notas nas provas. É utilizado um mapa de calor para mostrar a correlação entre dados como horas de estudo, uso de redes sociais, tempo assistindo à Netflix, frequência, sono, exercícios e nota da prova.
+
+**3. Relatório de Máquinas**
+
+Arquivo: `relatorio_maquinas.ipynb`
+
+Base de dados: `monitoramento_maquinas.csv`
+
+Este relatório apresenta uma análise dos dados de monitoramento de máquinas. São exibidas informações da tabela e estatísticas dos dados, além de um histograma que mostra a quantidade de registros por temperatura.
+
+**Como executar**
+
+1. Instale o Python.
+2. Instale as bibliotecas necessárias:
+
+```bash
+pip install pandas seaborn jupyter
+```
+
+3. Deixe os arquivos CSV na mesma pasta dos notebooks.
+4. Abra o Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+
+5. Abra o notebook desejado e execute as células em ordem.
+
+**Arquivos do projeto**
+
+- `relatorio_eletronicos.ipynb`
+- `relatorio_estudantes.ipynb`
+- `relatorio_maquinas.ipynb`
+- `vendas_eletronicos.csv`
+- `student_habits_performance.csv`
+- `monitoramento_maquinas.csv`
+
+**Observação:** os arquivos CSV são necessários para executar os relatórios. Os notebooks comentados explicam as etapas do código sem alterar sua lógica.
