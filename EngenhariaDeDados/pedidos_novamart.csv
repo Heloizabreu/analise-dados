@@ -1,0 +1,201 @@
+id_pedido,data_pedido,categoria,regiao,canal_venda,idade_cliente,quantidade_itens,valor_pedido,valor_frete,prazo_entrega_dias,nota_satisfacao,tempo_site_minutos
+NM0001,2026-01-01,Roupas,Centro-Oeste,Aplicativo,46.0,2,86.58,12.71,9.0,4.0,16.3
+NM0002,2026-01-03,Casa,Sul,Site,34.0,4,201.23,16.11,8.0,5.0,14.6
+NM0003,2026-01-05,Artigos esportivos,Centro-Oeste,Site,36.0,1,253.23,5.08,7.0,4.0,12.3
+NM0004,2026-01-07,Cosméticos,Norte,Aplicativo,24.0,3,63.87,27.7,12.0,5.0,15.9
+NM0005,2026-01-09,Eletrônicos,Centro-Oeste,Aplicativo,36.0,1,1591.68,17.03,9.0,,7.5
+NM0006,2026-01-11,Eletrônicos,Norte,Site,33.0,1,816.0,21.45,7.0,5.0,30.3
+NM0007,2026-01-13,Eletrônicos,Sudeste,Site,40.0,1,366.92,0.0,5.0,2.0,30.1
+NM0008,2026-01-15,Casa,Centro-Oeste,Site,26.0,4,12500.0,7.41,7.0,2.0,15.2
+NM0009,2026-01-17,Cosméticos,Sudeste,Site,42.0,3,56.37,32.9,6.0,4.0,13.4
+NM0010,2026-01-19,Cosméticos,Sudeste,Aplicativo,54.0,2,131.32,23.31,7.0,5.0,9.6
+NM0011,2026-01-21,Eletrônicos,Nordeste,Site,35.0,2,1133.54,20.15,10.0,5.0,16.1
+NM0012,2026-01-23,Casa,Norte,Aplicativo,41.0,4,121.39,32.01,5.0,2.0,8.2
+NM0013,2026-01-25,Artigos esportivos,Sul,Aplicativo,,2,349.34,2.81,8.0,3.0,3.5
+NM0014,2026-01-27,Roupas,Norte,Aplicativo,31.0,4,146.3,5.47,9.0,5.0,2.7
+NM0015,2026-01-29,Roupas,Sul,Site,39.0,2,178.05,24.0,5.0,3.0,7.7
+NM0016,2026-01-31,Roupas,Norte,Site,36.0,2,298.26,0.0,5.0,5.0,13.1
+NM0017,2026-02-02,Roupas,Sudeste,Aplicativo,37.0,2,106.67,10.35,6.0,5.0,14.4
+NM0018,2026-02-04,Livros,Centro-Oeste,Aplicativo,27.0,1,45.27,0.0,5.0,4.0,9.2
+NM0019,2026-02-06,Livros,Centro-Oeste,Aplicativo,36.0,3,42.41,7.43,9.0,4.0,180.0
+NM0020,2026-02-08,Roupas,Nordeste,Site,42.0,2,81.12,33.37,4.0,4.0,10.3
+NM0021,2026-02-10,Cosméticos,Sul,Aplicativo,53.0,1,86.73,23.63,7.0,3.0,6.9
+NM0022,2026-02-12,Eletrônicos,Sul,Site,48.0,4,765.65,0.0,13.0,5.0,11.7
+NM0023,2026-02-14,Roupas,Sul,Aplicativo,62.0,2,137.04,10.67,7.0,4.0,18.8
+NM0024,2026-02-16,Roupas,Sudeste,Aplicativo,27.0,2,178.49,,8.0,5.0,7.1
+NM0025,2026-02-18,Livros,Sul,Aplicativo,46.0,5,65.41,35.26,9.0,2.0,7.1
+NM0026,2026-02-20,Artigos esportivos,Centro-Oeste,Site,38.0,2,442.01,9.55,5.0,5.0,6.7
+NM0027,2026-02-22,Roupas,Sudeste,Site,62.0,1,105.68,0.0,4.0,4.0,4.1
+NM0028,2026-02-24,Livros,Norte,Aplicativo,26.0,5,239.86,49.34,7.0,1.0,9.2
+NM0029,2026-02-26,Cosméticos,Sul,Site,26.0,2,121.53,27.09,7.0,1.0,17.8
+NM0030,2026-02-28,Eletrônicos,Sul,Aplicativo,29.0,1,430.75,10.79,3.0,5.0,13.2
+NM0031,2026-03-02,Cosméticos,Norte,Site,18.0,1,53.83,25.66,7.0,4.0,10.9
+NM0032,2026-03-04,Eletrônicos,Sul,Site,30.0,3,819.39,3.94,,5.0,12.9
+NM0033,2026-03-06,Eletrônicos,Norte,Site,27.0,2,583.89,15.9,4.0,2.0,9.2
+NM0034,2026-03-08,Casa,Sudeste,Aplicativo,38.0,2,253.58,25.65,8.0,1.0,4.1
+NM0035,2026-03-10,Casa,Centro-Oeste,Site,40.0,4,225.9,21.92,9.0,4.0,18.5
+NM0036,2026-03-12,Artigos esportivos,Norte,Site,59.0,3,212.44,0.0,8.0,4.0,21.6
+NM0037,2026-03-14,Roupas,Nordeste,Aplicativo,47.0,1,79.92,29.28,8.0,4.0,8.0
+NM0038,2026-03-16,Eletrônicos,Norte,Aplicativo,29.0,1,314.14,23.1,6.0,5.0,11.0
+NM0039,2026-03-18,Cosméticos,Sul,Aplicativo,25.0,1,72.64,22.66,4.0,5.0,10.5
+NM0040,2026-03-20,Livros,Sudeste,Aplicativo,42.0,3,98.05,0.0,5.0,,14.6
+NM0041,2026-03-22,Eletrônicos,Sudeste,Site,20.0,1,720.35,6.7,5.0,5.0,30.4
+NM0042,2026-03-24,Livros,Norte,Site,58.0,2,35.75,0.0,6.0,4.0,22.7
+NM0043,2026-03-26,Eletrônicos,Centro-Oeste,Site,50.0,3,706.34,16.32,9.0,4.0,9.8
+NM0044,2026-03-28,Casa,Nordeste,Site,30.0,4,216.57,26.65,3.0,4.0,16.2
+NM0045,2026-03-30,Roupas,Sudeste,Site,18.0,1,78.51,31.18,7.0,5.0,
+NM0046,2026-04-01,Cosméticos,Sul,Aplicativo,52.0,4,96.89,11.22,4.0,2.0,15.0
+NM0047,2026-04-03,Roupas,Sul,Site,35.0,1,123.4,12.0,5.0,4.0,12.0
+NM0048,2026-04-05,Livros,Centro-Oeste,Site,51.0,4,37.55,13.28,8.0,2.0,15.3
+NM0049,2026-04-07,Livros,Sudeste,Site,18.0,1,77.18,37.46,4.0,4.0,8.2
+NM0050,2026-04-09,Roupas,Norte,Aplicativo,29.0,2,157.07,8.03,8.0,5.0,8.8
+NM0051,2026-04-11,Casa,Sul,Aplicativo,36.0,3,302.72,41.61,3.0,5.0,6.7
+NM0052,2026-04-13,Artigos esportivos,Centro-Oeste,Site,37.0,1,364.84,19.33,8.0,3.0,14.2
+NM0053,2026-04-15,Casa,Sudeste,Aplicativo,31.0,1,92.91,20.3,3.0,5.0,11.2
+NM0054,2026-04-17,Casa,Sudeste,Aplicativo,43.0,3,114.76,30.29,5.0,5.0,7.6
+NM0055,2026-04-19,Cosméticos,Sudeste,Aplicativo,23.0,25,115.24,17.83,11.0,1.0,11.0
+NM0056,2026-04-21,Casa,Sudeste,Aplicativo,34.0,3,230.34,33.6,11.0,3.0,15.5
+NM0057,2026-04-23,Eletrônicos,Sudeste,Aplicativo,37.0,3,832.3,11.21,6.0,3.0,34.4
+NM0058,2026-04-25,Roupas,Sul,Aplicativo,42.0,2,762.65,40.77,7.0,2.0,20.9
+NM0059,2026-04-27,Eletrônicos,Centro-Oeste,Aplicativo,45.0,1,854.91,11.9,9.0,5.0,3.4
+NM0060,2026-04-29,Roupas,Sudeste,Site,23.0,1,206.97,41.76,8.0,4.0,13.7
+NM0061,2026-05-01,Roupas,Nordeste,Site,18.0,1,189.69,12.14,6.0,5.0,26.3
+NM0062,2026-05-03,Roupas,Nordeste,Aplicativo,51.0,5,164.05,13.57,5.0,3.0,5.7
+NM0063,2026-05-05,Artigos esportivos,Centro-Oeste,Site,40.0,2,189.1,7.23,9.0,2.0,16.3
+NM0064,2026-05-07,Roupas,Norte,Site,27.0,2,172.74,9.02,9.0,4.0,10.5
+NM0065,2026-05-09,Roupas,Norte,Aplicativo,55.0,2,82.81,16.38,11.0,2.0,22.6
+NM0066,2026-05-11,Livros,Norte,Site,37.0,5,58.02,19.85,2.0,4.0,15.0
+NM0067,2026-05-13,Eletrônicos,Nordeste,Aplicativo,50.0,1,514.91,32.04,3.0,5.0,7.4
+NM0068,2026-05-15,Artigos esportivos,Norte,Aplicativo,,2,228.82,14.3,9.0,4.0,10.7
+NM0069,2026-05-17,Eletrônicos,Sul,Aplicativo,61.0,2,1974.38,21.95,3.0,4.0,11.1
+NM0070,2026-05-19,Casa,Sudeste,Site,57.0,2,73.45,18.93,9.0,2.0,11.2
+NM0071,2026-05-21,Artigos esportivos,Nordeste,Site,33.0,1,305.83,0.0,6.0,1.0,22.2
+NM0072,2026-05-23,Roupas,Centro-Oeste,Site,48.0,4,55.33,10.11,5.0,2.0,7.5
+NM0073,2026-05-25,Eletrônicos,Centro-Oeste,Site,44.0,5,518.24,11.08,35.0,4.0,20.8
+NM0074,2026-05-27,Artigos esportivos,Sudeste,Aplicativo,52.0,2,371.05,10.12,3.0,2.0,10.2
+NM0075,2026-05-29,Cosméticos,Nordeste,Aplicativo,24.0,3,92.82,36.07,8.0,4.0,13.6
+NM0076,2026-05-31,Artigos esportivos,Norte,Site,44.0,5,131.15,41.02,11.0,4.0,12.5
+NM0077,2026-06-02,Artigos esportivos,Norte,Aplicativo,49.0,3,156.07,10.71,9.0,4.0,11.9
+NM0078,2026-06-04,Eletrônicos,Sul,Aplicativo,18.0,1,900.71,10.88,6.0,3.0,11.9
+NM0079,2026-06-06,Roupas,Sul,Site,22.0,2,84.51,25.85,3.0,3.0,26.7
+NM0080,2026-06-08,Eletrônicos,Norte,Aplicativo,18.0,2,721.17,43.92,3.0,5.0,19.1
+NM0081,2026-06-10,Casa,Centro-Oeste,Site,33.0,2,183.98,0.0,3.0,5.0,9.8
+NM0082,2026-06-12,Cosméticos,Centro-Oeste,Aplicativo,45.0,3,65.83,10.34,6.0,4.0,28.7
+NM0083,2026-06-14,Roupas,Sul,Site,54.0,5,335.82,12.47,7.0,1.0,14.0
+NM0084,2026-06-16,Eletrônicos,Sudeste,Aplicativo,37.0,5,881.17,20.57,9.0,5.0,14.6
+NM0085,2026-06-18,Roupas,Norte,Aplicativo,56.0,2,45.4,21.26,2.0,5.0,7.6
+NM0086,2026-06-20,Roupas,Sul,Site,19.0,1,131.24,14.72,10.0,3.0,9.1
+NM0087,2026-06-22,Artigos esportivos,Sul,Site,18.0,6,160.13,8.77,8.0,,8.2
+NM0088,2026-06-24,Cosméticos,Norte,Site,35.0,4,135.5,16.4,6.0,3.0,12.6
+NM0089,2026-06-26,Casa,Norte,Site,41.0,1,9800.0,49.94,4.0,4.0,17.1
+NM0090,2026-06-28,Livros,Centro-Oeste,Aplicativo,36.0,5,61.52,11.21,9.0,4.0,14.7
+NM0091,2026-06-30,Eletrônicos,Sudeste,Aplicativo,18.0,4,828.29,19.7,6.0,3.0,28.7
+NM0092,2026-07-02,Artigos esportivos,Sudeste,Site,35.0,2,333.35,,6.0,5.0,7.4
+NM0093,2026-07-04,Artigos esportivos,Norte,Aplicativo,20.0,2,123.65,11.08,7.0,5.0,12.8
+NM0094,2026-07-06,Cosméticos,Nordeste,Site,44.0,2,76.65,26.66,4.0,4.0,5.9
+NM0095,2026-07-08,Artigos esportivos,Sul,Site,40.0,1,175.15,51.28,6.0,3.0,7.2
+NM0096,2026-07-10,Livros,Sul,Aplicativo,25.0,1,47.5,25.16,9.0,1.0,24.1
+NM0097,2026-07-12,Livros,Norte,Aplicativo,30.0,4,151.68,34.45,8.0,3.0,9.3
+NM0098,2026-07-14,Livros,Nordeste,Site,23.0,1,78.95,0.0,8.0,5.0,7.7
+NM0099,2026-07-16,Eletrônicos,Centro-Oeste,Site,35.0,1,354.87,23.84,4.0,3.0,3.7
+NM0100,2026-07-18,Eletrônicos,Norte,Site,47.0,2,1009.84,40.17,6.0,4.0,7.7
+NM0101,2026-07-20,Eletrônicos,Norte,Aplicativo,24.0,2,1800.12,26.11,6.0,5.0,10.7
+NM0102,2026-07-22,Cosméticos,Sul,Aplicativo,120.0,5,147.73,14.83,8.0,2.0,5.7
+NM0103,2026-07-24,Roupas,Norte,Aplicativo,30.0,1,57.87,18.67,7.0,5.0,10.4
+NM0104,2026-07-26,Livros,Norte,Aplicativo,26.0,1,51.52,21.75,7.0,2.0,24.1
+NM0105,2026-07-28,Casa,Norte,Site,35.0,3,330.65,12.41,12.0,5.0,8.1
+NM0106,2026-07-30,Roupas,Sul,Site,24.0,2,85.44,0.0,6.0,4.0,7.1
+NM0107,2026-08-01,Livros,Centro-Oeste,Site,29.0,1,80.43,17.38,6.0,2.0,6.5
+NM0108,2026-08-03,Artigos esportivos,Centro-Oeste,Site,22.0,2,319.08,26.05,4.0,4.0,6.4
+NM0109,2026-08-05,Roupas,Norte,Site,60.0,1,76.9,59.91,3.0,4.0,16.1
+NM0110,2026-08-07,Eletrônicos,Sul,Site,36.0,1,631.69,0.0,,5.0,12.3
+NM0111,2026-08-09,Roupas,Centro-Oeste,Aplicativo,28.0,2,25.32,44.62,5.0,5.0,20.3
+NM0112,2026-08-11,Eletrônicos,Centro-Oeste,Aplicativo,39.0,2,397.53,25.44,10.0,4.0,36.4
+NM0113,2026-08-13,Casa,Centro-Oeste,Site,35.0,5,159.45,0.0,7.0,2.0,4.4
+NM0114,2026-08-15,Artigos esportivos,Sul,Site,33.0,2,120.87,11.89,7.0,2.0,14.8
+NM0115,2026-08-17,Cosméticos,Sul,Aplicativo,43.0,2,197.03,0.0,6.0,2.0,6.5
+NM0116,2026-08-19,Casa,Norte,Aplicativo,45.0,3,90.6,0.0,7.0,4.0,180.0
+NM0117,2026-08-21,Artigos esportivos,Sudeste,Aplicativo,30.0,1,178.11,0.0,10.0,5.0,10.3
+NM0118,2026-08-23,Roupas,Centro-Oeste,Aplicativo,29.0,3,127.77,10.82,2.0,4.0,12.2
+NM0119,2026-08-25,Casa,Sudeste,Site,33.0,1,359.52,21.88,9.0,3.0,5.9
+NM0120,2026-08-27,Livros,Sul,Site,18.0,6,32.63,44.34,1.0,4.0,9.5
+NM0121,2026-08-29,Artigos esportivos,Sul,Site,18.0,1,384.5,16.0,7.0,5.0,12.6
+NM0122,2026-08-31,Casa,Sul,Site,52.0,2,180.89,4.54,12.0,5.0,25.3
+NM0123,2026-09-02,Roupas,Sudeste,Site,56.0,1,74.92,0.0,8.0,5.0,7.8
+NM0124,2026-09-04,Eletrônicos,Sul,Aplicativo,33.0,6,811.42,7.11,7.0,3.0,8.9
+NM0125,2026-09-06,Roupas,Norte,Site,43.0,2,132.03,27.1,11.0,3.0,20.2
+NM0126,2026-09-08,Livros,Sul,Aplicativo,40.0,2,48.73,5.46,5.0,5.0,7.5
+NM0127,2026-09-10,Artigos esportivos,Nordeste,Site,73.0,1,227.5,0.0,8.0,4.0,22.5
+NM0128,2026-09-12,Casa,Sudeste,Site,49.0,3,149.61,26.13,8.0,3.0,11.9
+NM0129,2026-09-14,Eletrônicos,Nordeste,Site,34.0,1,686.4,15.61,5.0,5.0,14.2
+NM0130,2026-09-16,Livros,Sul,Site,25.0,4,89.32,9.65,5.0,5.0,14.7
+NM0131,2026-09-18,Livros,Norte,Site,18.0,1,139.17,250.0,5.0,4.0,8.6
+NM0132,2026-09-20,Roupas,Centro-Oeste,Aplicativo,38.0,1,66.24,0.0,7.0,5.0,14.9
+NM0133,2026-09-22,Eletrônicos,Sul,Aplicativo,27.0,1,1809.54,5.63,8.0,4.0,7.8
+NM0134,2026-09-24,Roupas,Norte,Aplicativo,19.0,2,47.02,41.54,7.0,4.0,9.1
+NM0135,2026-09-26,Casa,Sudeste,Site,28.0,2,167.35,21.38,8.0,4.0,16.3
+NM0136,2026-09-28,Roupas,Nordeste,Site,23.0,1,159.16,23.07,2.0,5.0,14.1
+NM0137,2026-09-30,Livros,Nordeste,Aplicativo,56.0,3,74.39,26.01,6.0,5.0,11.5
+NM0138,2026-10-02,Cosméticos,Nordeste,Site,47.0,2,66.75,0.0,4.0,5.0,6.0
+NM0139,2026-10-04,Roupas,Sudeste,Site,36.0,2,108.59,19.33,7.0,1.0,6.9
+NM0140,2026-10-06,Casa,Norte,Aplicativo,54.0,2,142.07,27.11,7.0,5.0,14.0
+NM0141,2026-10-08,Casa,Sudeste,Site,37.0,2,135.65,9.78,6.0,5.0,17.9
+NM0142,2026-10-10,Roupas,Nordeste,Aplicativo,26.0,2,180.42,50.1,8.0,5.0,6.5
+NM0143,2026-10-12,Livros,Sul,Site,54.0,1,77.15,0.0,9.0,5.0,7.6
+NM0144,2026-10-14,Roupas,Centro-Oeste,Aplicativo,,1,86.05,9.74,6.0,5.0,12.9
+NM0145,2026-10-16,Roupas,Sudeste,Site,24.0,4,184.8,0.0,4.0,4.0,12.8
+NM0146,2026-10-18,Eletrônicos,Sudeste,Site,34.0,5,753.31,2.63,3.0,4.0,4.9
+NM0147,2026-10-20,Cosméticos,Norte,Aplicativo,25.0,2,132.95,11.83,7.0,2.0,13.1
+NM0148,2026-10-22,Livros,Norte,Site,19.0,1,87.94,1.15,7.0,4.0,8.6
+NM0149,2026-10-24,Eletrônicos,Sudeste,Site,47.0,3,436.62,0.0,4.0,4.0,29.6
+NM0150,2026-10-26,Roupas,Nordeste,Aplicativo,59.0,2,91.71,22.59,8.0,5.0,13.8
+NM0151,2026-10-28,Casa,Centro-Oeste,Site,19.0,1,257.66,7.49,5.0,3.0,15.1
+NM0152,2026-10-30,Roupas,Norte,Aplicativo,43.0,1,160.85,16.22,3.0,,15.3
+NM0153,2026-11-01,Eletrônicos,Nordeste,Site,28.0,3,643.51,16.76,10.0,5.0,6.2
+NM0154,2026-11-03,Livros,Sul,Site,30.0,3,68.77,6.2,9.0,1.0,35.0
+NM0155,2026-11-05,Casa,Norte,Site,29.0,1,332.37,14.23,2.0,3.0,4.9
+NM0156,2026-11-07,Roupas,Nordeste,Site,26.0,1,90.34,17.13,5.0,1.0,18.6
+NM0157,2026-11-09,Cosméticos,Nordeste,Aplicativo,37.0,1,117.03,13.94,5.0,3.0,16.9
+NM0158,2026-11-11,Artigos esportivos,Centro-Oeste,Site,26.0,3,199.65,0.0,10.0,3.0,9.2
+NM0159,2026-11-13,Roupas,Centro-Oeste,Aplicativo,39.0,1,108.09,7.25,6.0,4.0,17.3
+NM0160,2026-11-15,Artigos esportivos,Sul,Site,35.0,1,372.8,0.0,3.0,4.0,
+NM0161,2026-11-17,Roupas,Nordeste,Site,33.0,3,178.34,10.71,9.0,5.0,8.3
+NM0162,2026-11-19,Cosméticos,Nordeste,Site,25.0,1,132.99,0.0,4.0,4.0,15.5
+NM0163,2026-11-21,Cosméticos,Centro-Oeste,Site,29.0,3,168.42,40.55,6.0,5.0,6.9
+NM0164,2026-11-23,Livros,Norte,Aplicativo,45.0,1,65.66,30.93,5.0,2.0,10.6
+NM0165,2026-11-25,Eletrônicos,Norte,Aplicativo,42.0,1,901.73,17.54,5.0,3.0,8.7
+NM0166,2026-11-27,Artigos esportivos,Sudeste,Aplicativo,24.0,1,189.56,10.03,9.0,5.0,10.0
+NM0167,2026-11-29,Roupas,Centro-Oeste,Aplicativo,37.0,40,140.2,0.0,10.0,1.0,15.2
+NM0168,2026-12-01,Roupas,Sudeste,Site,45.0,4,112.73,25.88,3.0,4.0,8.7
+NM0169,2026-12-03,Eletrônicos,Centro-Oeste,Aplicativo,18.0,4,680.98,38.76,8.0,4.0,10.8
+NM0170,2026-12-05,Cosméticos,Sul,Aplicativo,43.0,2,119.76,19.35,5.0,4.0,9.1
+NM0171,2026-12-07,Cosméticos,Nordeste,Site,28.0,3,60.77,48.46,5.0,1.0,26.6
+NM0172,2026-12-09,Eletrônicos,Sul,Site,43.0,1,1774.58,19.35,8.0,3.0,14.5
+NM0173,2026-12-11,Livros,Centro-Oeste,Site,27.0,1,40.1,0.0,4.0,4.0,13.5
+NM0174,2026-12-13,Roupas,Nordeste,Site,18.0,4,67.0,11.52,8.0,2.0,17.5
+NM0175,2026-12-15,Cosméticos,Norte,Aplicativo,18.0,1,156.91,24.08,8.0,5.0,8.7
+NM0176,2026-12-17,Eletrônicos,Norte,Aplicativo,37.0,1,950.48,10.69,5.0,5.0,19.2
+NM0177,2026-12-19,Cosméticos,Sudeste,Site,39.0,1,121.44,48.25,10.0,5.0,14.5
+NM0178,2026-12-21,Roupas,Centro-Oeste,Site,25.0,1,162.24,,3.0,3.0,5.1
+NM0179,2026-12-23,Casa,Centro-Oeste,Site,44.0,1,178.94,17.27,10.0,5.0,5.5
+NM0180,2026-12-25,Eletrônicos,Norte,Aplicativo,18.0,2,422.54,18.32,2.0,4.0,8.8
+NM0181,2026-12-27,Roupas,Sul,Aplicativo,35.0,2,124.45,13.83,13.0,4.0,5.8
+NM0182,2026-12-29,Eletrônicos,Nordeste,Site,21.0,4,469.63,3.5,6.0,2.0,10.5
+NM0183,2026-12-31,Casa,Sul,Site,28.0,4,287.44,11.53,4.0,5.0,6.9
+NM0184,2027-01-02,Casa,Sul,Aplicativo,37.0,1,167.73,44.54,6.0,3.0,11.4
+NM0185,2027-01-04,Roupas,Norte,Site,26.0,1,80.74,19.71,42.0,4.0,26.1
+NM0186,2027-01-06,Cosméticos,Norte,Site,31.0,2,77.13,0.0,7.0,2.0,11.7
+NM0187,2027-01-08,Artigos esportivos,Norte,Aplicativo,48.0,2,268.23,33.86,10.0,5.0,10.2
+NM0188,2027-01-10,Cosméticos,Sudeste,Site,29.0,1,68.66,16.33,4.0,5.0,14.9
+NM0189,2027-01-12,Livros,Sul,Aplicativo,46.0,2,43.8,26.17,8.0,5.0,8.2
+NM0190,2027-01-14,Roupas,Centro-Oeste,Site,22.0,2,134.89,3.92,3.0,3.0,19.1
+NM0191,2027-01-16,Eletrônicos,Nordeste,Site,42.0,2,731.1,42.28,9.0,,15.8
+NM0192,2027-01-18,Casa,Sudeste,Aplicativo,53.0,2,141.12,40.13,7.0,4.0,12.3
+NM0193,2027-01-20,Casa,Centro-Oeste,Aplicativo,18.0,1,143.58,23.64,9.0,4.0,13.1
+NM0194,2027-01-22,Cosméticos,Sul,Site,26.0,5,100.6,20.21,6.0,3.0,36.9
+NM0195,2027-01-24,Roupas,Norte,Aplicativo,43.0,3,59.88,16.49,5.0,5.0,20.1
+NM0196,2027-01-26,Roupas,Sul,Site,34.0,1,61.06,35.74,8.0,5.0,40.2
+NM0197,2027-01-28,Artigos esportivos,Nordeste,Site,40.0,4,155.83,0.0,3.0,5.0,16.1
+NM0198,2027-01-30,Casa,Sudeste,Aplicativo,29.0,2,162.47,12.73,2.0,,5.3
+NM0199,2027-02-01,Casa,Sudeste,Site,37.0,4,208.97,6.45,6.0,5.0,10.4
+NM0200,2027-02-03,Artigos esportivos,Nordeste,Site,34.0,3,446.66,5.38,6.0,3.0,4.7
